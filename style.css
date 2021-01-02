@@ -1,0 +1,15 @@
+.center {
+    text-align: center;
+    /*These options are for the div to be visible in the example, the important is the first*/
+    width: auto;
+    height: 50px;
+    margin-top: 20px;
+}
+
+.cmb {
+    display: block;
+    margin: 0 auto;
+}
+.maintag{
+    background-color: black;
+}
