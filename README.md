@@ -1,6 +1,6 @@
 # Breaking-Bad-App-using-Javascript
 
-#Demo App: 
+# Demo App: https://badbreaking.netlify.app/
 
 This is implementation of Breaking bad Free api. Build this using html,css, bootstrap
 
